@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,600;1,700;1,800;1,900&display=swap');
+*{
+    font-family: 'Poppins' ,sans-serif;
+}
+.b1 {
+    background: rgb(18, 204, 102);
+    color:aliceblue;
+    font-size: 20px;
+    height:50px ;
+    width: 100px;
+    border: 1px solid green ;
+    border-radius: 5px;
+    transition-duration: 1s;
+}
+.t1{
+    color: rgb(18, 150, 46);
+    font-size: 25px;
+    transition-duration: 1s;
+}
+.i1 {
+    border: 1px solid green;
+    border-radius: 5px;
+    transition-duration: 1s;
+    height: 50px;
+}
+.b2 {
+    background: rgb(6, 209, 209);
+    color:aliceblue;
+    font-size: 20px;
+    height:90px ;
+    width: 90px;
+    border: 5px solid rgb(0, 156, 184) ;
+    border-radius: 50%;
+    transition-duration: 1s;
+
+}
+.t2{
+    color: rgb(18, 119, 150);
+    font-size: 25px;
+    transition-duration: 1s;
+}
+.i2 {
+    height: 50px;
+    padding: top 10px;
+    border: 5px solid rgb(34, 134, 121);
+    border-radius: 7px;
+    transition-duration: 1s;
+}
+.b3 {
+    background: rgb(249, 199, 253);
+    color:rgb(148, 29, 172);
+    font-size: 20px;
+    height:50px ;
+    width: 100px;
+    border: 3px solid rgb(236, 69, 209) ;
+    border-radius: 20px;
+    transition-duration: 1s;
+}
+.t3{
+    color: rgb(194, 29, 194);
+    font-size: 25px;
+    transition-duration: 1s;
+}
+.i3 {
+    height: 50px;
+    padding: top 10px;
+    border: 6px solid rgb(255, 0, 212);
+    border-radius: 20px;
+    transition-duration: 1s;
+}
